@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated outputs
+figures/
+
+# Data (optional — remove if you want to track the CSV)
+data/
+
+# IDE
+.vscode/
+.idea/
